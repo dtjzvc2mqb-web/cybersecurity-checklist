@@ -3,7 +3,7 @@
 ---
 
 ## 📘 Week 1 – Foundations
-- [x] Understand what cybersecurity and ethical hacking mean  
+- [ ] Understand what cybersecurity and ethical hacking mean  
 - [ ] Learn the difference between white hat, gray hat, and black hat hackers  
 - [ ] Watch beginner YouTube series: "NetworkChuck – What is Cybersecurity?"  
 - [ ] Create TryHackMe and Hack The Box free accounts  
