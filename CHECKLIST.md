@@ -7,7 +7,7 @@
 - [x] Learn the difference between white hat, gray hat, and black hat hackers  
 - [x] Watch beginner YouTube series: "NetworkChuck – What is Cybersecurity?"  
 - [x] Create TryHackMe and Hack The Box free accounts  
-- [ ] Learn basic computer terms (IP, DNS, HTTP, firewall, etc.)
+- [x] Learn basic computer terms (IP, DNS, HTTP, firewall, etc.)
 
 ---
 
