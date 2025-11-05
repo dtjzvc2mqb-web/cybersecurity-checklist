@@ -12,11 +12,11 @@
 ---
 
 ## 💻 Week 2 – Networking Basics
-- [ ] Study computer networks: IP, TCP/UDP, ports, protocols  
-- [ ] Learn how the internet works (DNS, routing, IP addresses)  
-- [ ] Practice using ping, traceroute, and netstat commands  
-- [ ] Watch: “Network Fundamentals by Cisco (Free on YouTube)”  
-- [ ] Join TryHackMe’s *Network Fundamentals* room  
+- [x] Study computer networks: IP, TCP/UDP, ports, protocols  
+- [x] Learn how the internet works (DNS, routing, IP addresses)  
+- [x] Practice using ping, traceroute, and netstat commands  
+- [x] Watch: “Network Fundamentals by Cisco (Free on YouTube)”  
+- [x] Join TryHackMe’s *Network Fundamentals* room  
 
 ---
 
