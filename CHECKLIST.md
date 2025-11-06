@@ -21,7 +21,7 @@
 ---
 
 ## 🧠 Week 3 – Linux & Command Line
-- [ ] Install or use Kali Linux on VirtualBox  
+- [x] Install or use Kali Linux on VirtualBox  
 - [ ] Learn 20+ basic Linux commands (ls, cd, cat, grep, chmod, etc.)  
 - [ ] Explore TryHackMe “Linux Fundamentals” rooms (Parts 1–3)  
 - [ ] Practice file permissions and navigation  
