@@ -24,7 +24,7 @@
 - [x] Install or use Kali Linux on VirtualBox  
 - [x] Learn 20+ basic Linux commands (ls, cd, cat, grep, chmod, etc.)  
 - [x] Explore TryHackMe “Linux Fundamentals” rooms (Parts 1–3)  
-- [ ] Practice file permissions and navigation  
+- [x] Practice file permissions and navigation  
 
 ---
 
